@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.env.example
+*.db
+.pytest_cache/
+health.pdf
